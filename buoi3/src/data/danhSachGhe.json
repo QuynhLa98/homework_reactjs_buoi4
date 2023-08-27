@@ -1,0 +1,184 @@
+[ 
+      {
+      "hang": "", 
+      "danhSachGhe": [
+        {"soGhe":"1","dangChon":false,"gia":0},
+        {"soGhe":"2","dangChon":false,"gia":0},
+        {"soGhe":"3","dangChon":false,"gia":0},
+        {"soGhe":"4","dangChon":false,"gia":0},
+        {"soGhe":"5","dangChon":false,"gia":0},
+        {"soGhe":"6","dangChon":false,"gia":0},
+        {"soGhe":"7","dangChon":false,"gia":0},
+        {"soGhe":"8","dangChon":false,"gia":0},
+        {"soGhe":"9","dangChon":false,"gia":0},
+        {"soGhe":"10","dangChon":false,"gia":0},
+        {"soGhe":"11","dangChon":false,"gia":0},
+        {"soGhe":"12","dangChon":false,"gia":0}
+      ] 
+    }
+    ,
+    {
+      "hang": "A", 
+      "danhSachGhe": [
+        {"soGhe":"A1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"A11","dangChon":false,"gia":0,"daDat":true},
+        {"soGhe":"A12","dangChon":false,"gia":0,"daDat":true}
+      ] 
+    },
+    {
+      "hang": "B", 
+      "danhSachGhe": [
+        {"soGhe":"B1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"B12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },
+    {
+      "hang": "C", 
+      "danhSachGhe": [
+        {"soGhe":"C1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"C12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    }, {
+      "hang": "D", 
+      "danhSachGhe": [
+        {"soGhe":"D1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"D12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "E", 
+      "danhSachGhe": [
+        {"soGhe":"E1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"E12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "F", 
+      "danhSachGhe": [
+        {"soGhe":"F1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"F12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "G", 
+      "danhSachGhe": [
+        {"soGhe":"G1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"G12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "H", 
+      "danhSachGhe": [
+        {"soGhe":"H1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"H12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "I", 
+      "danhSachGhe": [
+        {"soGhe":"I1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"I12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "J", 
+      "danhSachGhe": [
+        {"soGhe":"J1","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J2","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J3","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J4","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J5","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J6","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J7","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J8","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J9","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J10","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J11","dangChon":false,"gia":75000,"daDat":false},
+        {"soGhe":"J12","dangChon":false,"gia":75000,"daDat":false}
+      ] 
+    }
+  
+  ]

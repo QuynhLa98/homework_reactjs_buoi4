@@ -1,0 +1,35 @@
+.bg-img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)),
+    url(../../../public/bgmovie.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+table {
+  width: 100%;
+  color: #fff;
+}
+p {
+  color: #fff;
+}
+.screen {
+  border-bottom: 50px solid rgb(255, 159, 95);
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  height: 100;
+  width: 100%;
+  filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
+  font-size: 25px;
+  color: #fff;
+}
+.ghe {
+  border: 3px solid orange;
+  width: 45px;
+  height: 35px;
+  font-size: 16px;
+  margin-left: 2%;
+  margin-bottom: 1%;
+  border-radius: 5px;
+}
